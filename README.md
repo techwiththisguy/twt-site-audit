@@ -66,7 +66,7 @@ Designed so new checks can be added in minutes.
 ---
 
 ## Project Structure
-'''text
+'''bash
 
 twt-site-audit/
 │
