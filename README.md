@@ -66,7 +66,7 @@ Designed so new checks can be added in minutes.
 ---
 
 ## Project Structure
-'''bash
+```text
 
 twt-site-audit/
 │
@@ -84,7 +84,7 @@ twt-site-audit/
 ├── README.md
 ├── requirements.txt
 └── LICENSE
-'''
+```
 
 ---
 
