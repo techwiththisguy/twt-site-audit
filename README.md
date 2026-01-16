@@ -66,7 +66,7 @@ Designed so new checks can be added in minutes.
 ---
 
 ## Project Structure
-
+'''
 twt-site-audit/
 │
 ├── twt_site_audit/
@@ -83,7 +83,7 @@ twt-site-audit/
 ├── README.md
 ├── requirements.txt
 └── LICENSE
-
+'''
 ---
 
 ## Installation
