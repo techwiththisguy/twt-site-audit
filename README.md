@@ -67,7 +67,6 @@ Designed so new checks can be added in minutes.
 
 ## Project Structure
 ```text
-
 twt-site-audit/
 │
 ├── twt_site_audit/
