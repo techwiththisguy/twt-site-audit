@@ -1,4 +1,9 @@
 # TWT Site Audit
+>A fast, local, and extensible CLI tool for SEO and website quality audits.
+
+![Python](https://img.shields.io/badge/Python-3.11+-blue)
+![License](https://img.shields.io/badge/License-MIT-green)
+![CLI Tool](https://img.shields.io/badge/Type-CLI-orange)
 
 TWT Site Audit is a lightweight command-line SEO and website quality scanner built for small businesses, developers, and consultants who need fast, actionable insights without bloated enterprise tools.
 
@@ -65,8 +70,8 @@ Designed so new checks can be added in minutes.
 twt-site-audit/
 │
 ├── twt_site_audit/
-│ ├── __init__.py
-│ ├── __main__.py
+│ ├── init.py
+│ ├── main.py
 │ ├── cli.py
 │ ├── fetch.py
 │ ├── parse.py
